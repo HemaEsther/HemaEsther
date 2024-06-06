@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" />
 <h1 align="center">Hey there, I'm Hema Esther Shah ⚡️ </h1>
 <h3 align="center">Coder | Developer | Problem Solver</h3>
+<h4 align="center">Pursuing MCA from NIT Jamshedpur </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaesther&label=Profile%20views&color=0e75b6&style=flat" alt="hemaesther" /> </p>
 
